@@ -1,13 +1,13 @@
 # test
 
-##ParKING
+## ParKING
 
-###Clanovi Tima:
-*1.Aldo Selimovic
-*2.Selmir Šatrovic
-*3.Tarik Ahmetovic
+### Clanovi Tima:
+* 1.Aldo Selimovic
+* 2.Selmir Šatrovic
+* 3.Tarik Ahmetovic
 
-##Opis Teme
+## Opis Teme
 
 Olakšava parkiranje u Sarajevu.
 
@@ -15,7 +15,7 @@ Problem korisnika je pronalazak slobodnog parkinga i koja je cijena parkinga u d
 
 Naš sistem bi kupili/iznajmili vlasnici parkinga. Sistem bi im omogucio bolji uvid u stanje i evidenciju parkinga. Sistem bi im pruzio marketing.
 
-##Procesi
+## Procesi
 
 Korisnik je u mogucnosti da prilikom pokretanja aplikacije obave registraciju ako ne posjeduju profil.
 
@@ -27,7 +27,7 @@ Korisnik je u mogucnosti da izvrsi pregled svih parkinga u Sarajevu,prijavljeni 
 
 Sistem na parkingu pomocu kamere azurira stanje na parkingu i salje informacije na server, na osnovu kojih korisnici naseg sistema imaju uvid u stanje parkinga u sarajevu i mogucnosti za rezervaciju.
 
-##Funkcionalnosti
+## Funkcionalnosti
 
 -Mogucnost registracije korisnika.
 -Mogucnost pregleda svih parkinga u Sarajevu.
@@ -41,7 +41,7 @@ Sistem na parkingu pomocu kamere azurira stanje na parkingu i salje informacije 
 -Koristenje google mapa i gps-a.
 -Mogucnost placanja preko mobilnog uredjaja.
 
-##Akteri
+## Akteri
 
 Korisnik usluga(Mogucnost pregleda parkinga i rezervacije).
 Radnik na parkingu(Radi na poslovima naplate i evidencije dolaska korisnika koji je rezervisao parking).
