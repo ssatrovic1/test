@@ -1,5 +1,9 @@
 # test
 
+<p align="center">
+  <img src ="https://github.com/ooad-2016-2017/IntelCoreDuo/blob/master/logo.png"/>
+</p>
+
 ## ParKING
 
 ### Clanovi Tima:
