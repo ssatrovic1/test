@@ -1,19 +1,17 @@
-# test
-
 ##ParKING
 
 ###Clanovi Tima:
 *1.Aldo Selimovic
-*2.Selmir ≈†atrovic
+*2.Selmir äatrovic
 *3.Tarik Ahmetovic
 
 ##Opis Teme
 
-Olak≈°ava parkiranje u Sarajevu.
+Olaköava parkiranje u Sarajevu.
 
 Problem korisnika je pronalazak slobodnog parkinga i koja je cijena parkinga u datom trenutku. Sistem ce mu pomoci da zna gdje se nalazi svaki parking i da li je parking zauzet i da moze rezervisati mjesto na parkingu.
 
-Na≈° sistem bi kupili/iznajmili vlasnici parkinga. Sistem bi im omogucio bolji uvid u stanje i evidenciju parkinga. Sistem bi im pruzio marketing.
+Naö sistem bi kupili/iznajmili vlasnici parkinga. Sistem bi im omogucio bolji uvid u stanje i evidenciju parkinga. Sistem bi im pruzio marketing.
 
 ##Procesi
 
@@ -49,3 +47,12 @@ Vlasnik parkinga(Ima uvid u stanje parkinga).
 Administrator(Sve).
 Vrijeme(Uloga razlicite cijene parkinga u odredjenom vremenskom periodu).
 Sistem za online naplatu.
+
+
+
+
+
+
+
+
+
