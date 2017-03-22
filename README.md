@@ -43,9 +43,9 @@ Sistem na parkingu pomocu kamere azurira stanje na parkingu i salje informacije 
 
 ## Akteri
 
-Korisnik usluga(Mogucnost pregleda parkinga i rezervacije).
-Radnik na parkingu(Radi na poslovima naplate i evidencije dolaska korisnika koji je rezervisao parking).
-Vlasnik parkinga(Ima uvid u stanje parkinga).
-Administrator(Sve).
-Vrijeme(Uloga razlicite cijene parkinga u odredjenom vremenskom periodu).
-Sistem za online naplatu.
+1. Korisnik usluga(Mogucnost pregleda parkinga i rezervacije).
+2. Radnik na parkingu(Radi na poslovima naplate i evidencije dolaska korisnika koji je rezervisao parking).
+3. Vlasnik parkinga(Ima uvid u stanje parkinga).
+4. Administrator(Sve).
+5. Vrijeme(Uloga razlicite cijene parkinga u odredjenom vremenskom periodu).
+6. Sistem za online naplatu.
