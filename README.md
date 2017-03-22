@@ -3,9 +3,9 @@
 ## ParKING
 
 ### Clanovi Tima:
-* 1.Aldo Selimovic
-* 2.Selmir Šatrovic
-* 3.Tarik Ahmetovic
+1. Aldo Selimovic
+2. Selmir Šatrovic
+3. Tarik Ahmetovic
 
 ## Opis Teme
 
@@ -29,17 +29,17 @@ Sistem na parkingu pomocu kamere azurira stanje na parkingu i salje informacije 
 
 ## Funkcionalnosti
 
--Mogucnost registracije korisnika.
--Mogucnost pregleda svih parkinga u Sarajevu.
--Mogucnost rezervacije parkinga za registrovane korisnike.
--Mogucnost ocjenjivanja parkinga za registrovane korisnike.
--Mogucnost skupljanja poena za besplatan parking.
--Mogucnost pracenja stanja parkinga.
--Mogucnost prijave u sistem sa razlicitim privilegijama.
--Mogucnost prikazivanja statistike za vlasnike parkinga.
--Koristenje kamere kao eksternog uredaja(za detekciju pokreta).
--Koristenje google mapa i gps-a.
--Mogucnost placanja preko mobilnog uredjaja.
+- Mogucnost registracije korisnika.
+- Mogucnost pregleda svih parkinga u Sarajevu.
+- Mogucnost rezervacije parkinga za registrovane korisnike.
+- Mogucnost ocjenjivanja parkinga za registrovane korisnike.
+- Mogucnost skupljanja poena za besplatan parking.
+- Mogucnost pracenja stanja parkinga.
+- Mogucnost prijave u sistem sa razlicitim privilegijama.
+- Mogucnost prikazivanja statistike za vlasnike parkinga.
+- Koristenje kamere kao eksternog uredaja(za detekciju pokreta).
+- Koristenje google mapa i gps-a.
+- Mogucnost placanja preko mobilnog uredjaja.
 
 ## Akteri
 
