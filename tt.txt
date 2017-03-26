@@ -8,12 +8,6 @@ zzzzzzzzz
 6
 7
 1
-1rrrr
-1
-1
-1rrrr
-5
-6
 7
 8rrr
 9
@@ -24,3 +18,9 @@ zzzzzzzzz
 6
 6
 6
+8
+8
+9
+9
+9
+9
