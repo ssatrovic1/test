@@ -1,1 +1,1 @@
-C:\Users\user\Documents\git\IntelCoreDuo\Projekat\ParKing\ParKing\ParKing.csproj;x86
+C:\Users\Aldo\Desktop\P\Projekat\ParKing\ParKing\ParKing.csproj;x86

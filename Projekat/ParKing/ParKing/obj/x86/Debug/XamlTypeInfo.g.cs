@@ -136,7 +136,7 @@ namespace ParKing.ParKing_XamlTypeInfo
             _typeNameTable[0] = "ParKing.MainPage";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
-            _typeNameTable[3] = "ParKing.View.DetaljiParkinga";
+            _typeNameTable[3] = "ParKing.View.Pocetna";
             _typeNameTable[4] = "ParKing.View.Prijava";
             _typeNameTable[5] = "ParKing.View.Registracija";
             _typeNameTable[6] = "ParKing.View.RegistracijaParkinga";
@@ -145,7 +145,7 @@ namespace ParKing.ParKing_XamlTypeInfo
             _typeTable[0] = typeof(global::ParKing.MainPage);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
-            _typeTable[3] = typeof(global::ParKing.View.DetaljiParkinga);
+            _typeTable[3] = typeof(global::ParKing.View.Pocetna);
             _typeTable[4] = typeof(global::ParKing.View.Prijava);
             _typeTable[5] = typeof(global::ParKing.View.Registracija);
             _typeTable[6] = typeof(global::ParKing.View.RegistracijaParkinga);
@@ -184,7 +184,7 @@ namespace ParKing.ParKing_XamlTypeInfo
         }
 
         private object Activate_0_MainPage() { return new global::ParKing.MainPage(); }
-        private object Activate_3_DetaljiParkinga() { return new global::ParKing.View.DetaljiParkinga(); }
+        private object Activate_3_Pocetna() { return new global::ParKing.View.Pocetna(); }
         private object Activate_4_Prijava() { return new global::ParKing.View.Prijava(); }
         private object Activate_5_Registracija() { return new global::ParKing.View.Registracija(); }
         private object Activate_6_RegistracijaParkinga() { return new global::ParKing.View.RegistracijaParkinga(); }
@@ -214,9 +214,9 @@ namespace ParKing.ParKing_XamlTypeInfo
                 xamlType = new global::ParKing.ParKing_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 3:   //  ParKing.View.DetaljiParkinga
+            case 3:   //  ParKing.View.Pocetna
                 userType = new global::ParKing.ParKing_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_3_DetaljiParkinga;
+                userType.Activator = Activate_3_Pocetna;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
